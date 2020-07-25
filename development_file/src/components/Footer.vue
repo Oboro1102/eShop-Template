@@ -20,7 +20,7 @@
           li(class="footer__info__item__link__item") 
             router-link(to="/contact") Contact Us
 
-    div(class="footer__copyright") &copy; 2018 - {{localYear}} Design &amp; Coding by ツキノリュウ. All Rights Reserved.
+    div(class="footer__copyright") &copy; 2018 - {{localYear}} Design &amp; Coding by ツキノリュウ.
 </template>
 
 <style lang="scss" scoped>
